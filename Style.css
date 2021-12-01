@@ -437,12 +437,13 @@ html {
     .slider{
         top:1700px;
     }
-    body{
+    h1.b{
         width:800px;
         height:200px;
     }
-    .b1{
-        max-width:70%;
+    h1.v {
+        width: 800px;
+        height: 200px;
     }
 }
 
